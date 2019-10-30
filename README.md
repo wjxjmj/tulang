@@ -1,8 +1,9 @@
 # TuLang
 ![rabbit&wolf](./sources/th.jpg)
+
 一门基于（臆想）图论的语言。
 ## 什么是tulang？
-tulang的含义为图语言，汉语拼音的图。
+tulang的含义为图语言，tu乃图之汉语拼音。此外，tu又可解释为兔（rabbit），lang可解释为狼（wolf）。狼追兔跑，对抗进化，颇得evolutionary computing之妙。
 ## 为什么是tulang？
 造轮子是人的天性，写语言白皮书带来快感，毕竟嘴炮最爽了。
 ## 介绍一下tulang？
