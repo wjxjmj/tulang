@@ -1,4 +1,5 @@
 # TuLang
+![rabbit&wolf](./sources/th.jpg)
 一门基于（臆想）图论的语言。
 ## 什么是tulang？
 tulang的含义为图语言，汉语拼音的图。
